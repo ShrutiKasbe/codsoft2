@@ -34,13 +34,16 @@ section {
     height:140px;
     width: 160px;
 }
+.color{
+    color:rgb(206, 52, 52) ;
+}
 
 footer {
     background: #333;
-    color: #fff;
+    color: #f3eeee;
     text-align: center;
     padding: 10px;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 100%;
 }
